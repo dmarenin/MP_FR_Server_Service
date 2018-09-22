@@ -1,0 +1,52 @@
+
+obj/x86/Release/SimpleHttpServer.pdb
+obj/x86/Release/SimpleHttpServer.csprojResolveAssemblyReference.cache
+.vs/MP_FR_Server_Service/v14/.suo
+app.config
+bin/Debug/_lic.xml
+bin/Debug/Console_MP_FR_Server_Service.exe
+bin/Debug/lic.xml
+bin/Debug/log-06-24-2018 17.txt
+bin/Debug/log-06-25-2018 21.txt
+bin/Debug/log-07-07-2018 11.txt
+bin/Debug/log-07-07-2018 12.txt
+bin/Debug/log-07-28-2018 07.txt
+bin/Debug/MP_FR_Server_Service.exe
+bin/Debug/MP_FR_Server_Service.exe.config
+bin/Debug/MP_FR_Server_Service.pdb
+bin/Debug/MP_FR_Server_Service.vshost.exe
+bin/Debug/MP_FR_Server_Service.vshost.exe.config
+bin/Debug/MP_FR_Server_Service.vshost.exe.manifest
+bin/Debug/Service_MP_FR_Server_Service.exe
+bin/Debug/setup.bat
+obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache
+obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/x86/Debug/MP_FR_Server.csproj.FileListAbsolute.txt
+obj/x86/Debug/MP_FR_Server.csproj.GenerateResource.Cache
+obj/x86/Debug/MP_FR_Server.csprojResolveAssemblyReference.cache
+obj/x86/Debug/MP_FR_Server_Service.csproj.FileListAbsolute.txt
+obj/x86/Debug/MP_FR_Server_Service.csprojResolveAssemblyReference.cache
+obj/x86/Debug/MP_FR_Server_Service.exe
+obj/x86/Debug/MP_FR_Server_Service.pdb
+obj/x86/Debug/SimpleHttpServer.csproj.FileListAbsolute.txt
+obj/x86/Debug/SimpleHttpServer.csprojResolveAssemblyReference.cache
+obj/x86/Debug/Starter.ProjectInstaller.resources
+obj/x86/Release/DesignTimeResolveAssemblyReferences.cache
+obj/x86/Release/DesignTimeResolveAssemblyReferencesInput.cache
+obj/x86/Release/MP_FR_Server.csproj.FileListAbsolute.txt
+obj/x86/Release/MP_FR_Server.csproj.GenerateResource.Cache
+obj/x86/Release/MP_FR_Server.csprojResolveAssemblyReference.cache
+obj/x86/Release/MP_FR_Server_Service.exe
+obj/x86/Release/MP_FR_Server_Service.pdb
+obj/x86/Release/SimpleHttpServer.csproj.FileListAbsolute.txt
+obj/x86/Release/SimpleHttpServer.exe
+obj/x86/Release/Starter.ProjectInstaller.resources
+bin/Release/MP_FR_Server_Console.exe
+bin/Release/MP_FR_Server_Service.exe.config
+bin/Release/MP_FR_Server_Service.pdb
+MP_FR_Server.csproj
+MP_FR_Server.csproj.user
+MP_FR_Server_Service.sln
+ProjectInstaller.resx
+Properties/AssemblyInfo.cs
+SimpleHttpServer.suo
